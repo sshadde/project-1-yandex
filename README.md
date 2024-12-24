@@ -26,3 +26,6 @@
 - **HTML**  
 - **CSS**  
 - **БЭМ**  
+
+## Ссылка на проект
+https://sshadde.github.io/project-1-yandex/
